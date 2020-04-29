@@ -4,7 +4,7 @@ end
 
 def my_hash
   {
-    :bet => "okay"
+    test: "okay"
   }
 end
 
